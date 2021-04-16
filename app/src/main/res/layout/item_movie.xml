@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/idPoster"
+        android:layout_width="wrap_content"
+        android:layout_height="229dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="0dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="241dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="172dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        tools:text="Godzilla vs Kong" />
+
+    <TextView
+        android:id="@+id/tvOverview"
+        android:layout_width="260dp"
+        android:layout_height="156dp"
+        android:layout_below="@id/tvTitle"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="69dp"
+        android:layout_toEndOf="@+id/idPoster"
+        android:textColor="@color/purple_700"
+        android:textSize="12sp"
+        tools:text="Spinoff" />
+
+</RelativeLayout>
