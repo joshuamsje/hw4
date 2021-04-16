@@ -13,9 +13,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (20pts) Improved the user interface by experimenting with styling and coloring.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://i.imgur.com/gk0NA44.mp4" width=250><br>
+<img src="https://imgur.com/gk0NA44" width=250><br>
 
 ### Notes
 I encountered a with UI/UX design issues when building the app. Coming up with creative ways to improve the UX design and make it pop to a user was hard to think about. Then, 
