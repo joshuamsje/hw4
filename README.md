@@ -14,6 +14,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
+GitHub says content length of GIF exceeded so I just put the full GIF on imgur with this post linking to it.
 <blockquote class="imgur-embed-pub" lang="en" data-id="gk0NA44"><a href="https://imgur.com/gk0NA44">View post on imgur.com</a></blockquote>
 
 ### Notes
